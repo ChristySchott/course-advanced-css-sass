@@ -1,4 +1,4 @@
-# Advanced CSS e Sass
+# Advanced CSS and Sass
 Repositório para colocar material desenvolvido durante o curso Advanced  CSS and Sass: Flexbox, Grid, Animations and More!
 
 Assuntos do curso:
