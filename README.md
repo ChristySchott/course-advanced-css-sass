@@ -1,5 +1,5 @@
 # Advanced CSS and Sass
-Repositório para colocar material desenvolvido durante o curso Advanced  CSS and Sass: Flexbox, Grid, Animations and More!
+Repositório para colocar informações sobre o curso Advanced  CSS and Sass: Flexbox, Grid, Animations and More!
 
 Assuntos do curso:
 
@@ -16,3 +16,7 @@ Assuntos do curso:
 - The NPM ecosystem: development workflows and building processes
 - Get friendly and fast support in the course Q&A
 - Downloadable lectures, code and design assets for all projects
+
+Os links dos projetos desenvolvidos durante as 28hrs do curso podem ser conferido no arquivos **projetos.md**, neste mesmo repositório. Segue a foto do certificado de conclusão:
+
+![Certificado]()
