@@ -9,4 +9,4 @@ Link para os projetos:
 
 2. Trillo: [Site](https://christyschott.github.io/trillo.github.io/) / [Repositório](https://github.com/ChristySchott/trillo.github.io)
 
-3. Nexter
+3. Nexter: [Site](https://christyschott.github.io/nexter.github.io/) / [Repositório](https://github.com/ChristySchott/nexter.github.io)
