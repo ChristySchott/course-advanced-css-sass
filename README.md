@@ -19,4 +19,4 @@ Assuntos do curso:
 
 Os links dos projetos desenvolvidos durante as 28hrs do curso podem ser conferido no arquivos **projetos.md**, neste mesmo repositório. Segue a foto do certificado de conclusão:
 
-![Certificado]()
+![Certificado](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/certificado.jpg)
