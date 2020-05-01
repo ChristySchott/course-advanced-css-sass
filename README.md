@@ -5,7 +5,6 @@
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#zap-executando">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#zap-executando">Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -30,16 +29,6 @@ Link para os projetos:
 
 Esse projeto foi desenvolvido no curso Modern React with Redux, logo a principal tecnologia utilizada foi o React, um framework JavaScript. Também utilizei a Semantic UI, uma biblioteca de componentes de interface do usuário (UI) e a biblioteca faker.js, que gera, de acordo com a sua necessidade, dados aleatórios.
 
-## 🎨 Layouts
-
-Layout Trillo: 
-![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/trillo-0.png)
-
-Layout Nexter:
-![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/nexter.png)
-
-Layout Natours:
-![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/natours.png)
 
 ### Aprendizados:
 
