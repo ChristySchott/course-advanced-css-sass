@@ -32,11 +32,14 @@ Esse projeto foi desenvolvido no curso Modern React with Redux, logo a principal
 
 ## 🎨 Layouts
 
-Layout: 
+Layout Trillo: 
+![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/trillo-0.png)
 
-![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout0.PNG)
-![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout1.PNG)
-![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout2.PNG)
+Layout Nexter:
+![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/nexter.png)
+
+Layout Natours:
+![Layout do projeto](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/natours.png)
 
 ### Aprendizados:
 
