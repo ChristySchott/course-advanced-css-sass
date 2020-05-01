@@ -18,11 +18,11 @@ Durante o curso foram desenvolvidos 3 projetos reais, com o primeiro utilizando 
 
 Link para os projetos:
 
-1. Natours: Site / Repositório
+1. Natours: [Site](https://christyschott.github.io/natours.github.io/) / [Repositório](https://github.com/ChristySchott/natours.github.io)
 
-2. Trillo: Site / Repositório
+2. Trillo: [Site](https://christyschott.github.io/trillo.github.io/) / [Repositório](https://github.com/ChristySchott/trillo.github.io)
 
-3. Nexter: Site / Repositório
+3. Nexter: [Site](https://christyschott.github.io/nexter.github.io/) / [Repositório](https://github.com/ChristySchott/nexter.github.io)
 
 
 
