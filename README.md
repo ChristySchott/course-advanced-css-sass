@@ -1,7 +1,44 @@
-# Advanced CSS and Sass
-Repositório para colocar informações sobre o curso Advanced  CSS and Sass: Flexbox, Grid, Animations and More!
+<h1 align="center">
+  :books: Advanced CSS and Sass :books:
+</h1>
 
-Assuntos do curso:
+<p align="center">
+<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#zap-executando">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#zap-executando">Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 💻 Projetos
+
+Durante o curso foram desenvolvidos 3 projetos reais, com o primeiro utilizando CSS avançado e Float, o segundo utilizando Flexbox, e o último CSS Grid. Desde o primeiro site é utilizado o pré-processador SASS, onde pude aprender a técnica 7-1. O primeiro site possui um módulo exclusivo para o design responsivo, tratando tanto da teoria quanto da prática. Apesar de termos muitas funcionalidades nos sites, em nenhum momento do curso é utilizado JavaScript, evidenciando o poder do CSS.
+
+Link para os projetos:
+
+1. Natours: Site / Repositório
+
+2. Trillo: Site / Repositório
+
+3. Nexter: Site / Repositório
+
+
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido no curso Modern React with Redux, logo a principal tecnologia utilizada foi o React, um framework JavaScript. Também utilizei a Semantic UI, uma biblioteca de componentes de interface do usuário (UI) e a biblioteca faker.js, que gera, de acordo com a sua necessidade, dados aleatórios.
+
+## 🎨 Layouts
+
+Layout: 
+
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout0.PNG)
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout1.PNG)
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout2.PNG)
+
+### Aprendizados:
 
 - Tons of modern CSS techniques to create stunning designs and effects
 - Advanced CSS animations with @keyframes, animation and transition
@@ -17,6 +54,7 @@ Assuntos do curso:
 - Get friendly and fast support in the course Q&A
 - Downloadable lectures, code and design assets for all projects
 
-Os links dos projetos desenvolvidos durante as 28hrs do curso podem ser conferido no arquivos **projetos.md**, neste mesmo repositório. Segue a foto do certificado de conclusão:
+
+### Certificado:
 
 ![Certificado](https://github.com/ChristySchott/course-advanced-css-sass/blob/master/certificado.jpg)
